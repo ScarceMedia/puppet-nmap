@@ -10,3 +10,4 @@ class nmap::params {
       fail("${::osfamily} is not supported")
     }
   }
+}
